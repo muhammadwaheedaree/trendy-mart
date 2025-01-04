@@ -2,7 +2,7 @@
 
 **A modern, responsive e-commerce website showcasing my Next.js, TypeScript, and custom CSS skills.**  
 
-🌟 **[Live Demo](https://trendy-mart-ecommerce-app.vercel.app/)**  
+🌟 **[Live Demo](https://trendy-mart-ecru.vercel.app/)**  
 
 ---
 
